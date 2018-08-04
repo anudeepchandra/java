@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 hi
-=======
 hello
->>>>>>> f683610e8bd5cf5feb316eb79b1e98f64365b768
+welcome
